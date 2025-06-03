@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|c:\\users\\biolo\\desktop\\campominato_byerosandderek\\ewg2wg\\campominato_finale\\campominato\\campominato2\\fsalva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|solutionrelative:fsalva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|c:\\users\\biolo\\desktop\\campominato_byerosandderek\\ewg2wg\\campominato_finale\\campominato\\campominato2\\fimpostazioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|solutionrelative:fimpostazioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|c:\\users\\biolo\\desktop\\campominato_byerosandderek\\ewg2wg\\campominato_finale\\campominato\\campominato2\\fcarica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|solutionrelative:fcarica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|c:\\users\\biolo\\desktop\\campominato_byerosandderek\\ewg2wg\\campominato_finale\\campominato\\campominato2\\fgioca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|solutionrelative:fgioca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|c:\\users\\biolo\\desktop\\campominato_byerosandderek\\ewg2wg\\campominato_finale\\campominato\\campominato2\\fpartita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|solutionrelative:fpartita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\fpartita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|solutionrelative:fpartita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\fcarica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|solutionrelative:fcarica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\fgioca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|solutionrelative:fgioca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\fimpostazioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|solutionrelative:fimpostazioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\fsalva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7A71CC4-E067-4545-B369-6BA8E2FBED7F}|CampoMinato2.csproj|solutionrelative:fsalva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FImpostazioni.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FImpostazioni.cs",
+              "RelativeDocumentMoniker": "FImpostazioni.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FImpostazioni.cs",
+              "RelativeToolTip": "FImpostazioni.cs",
+              "ViewState": "AgIAADwBAAAAAAAAAAAuwCcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:13:26.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FImpostazioni.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FImpostazioni.cs",
+              "RelativeDocumentMoniker": "FImpostazioni.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FImpostazioni.cs [Progettazione]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FImpostazioni.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:13:24.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FCarica.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FCarica.cs",
+              "RelativeDocumentMoniker": "FCarica.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FCarica.cs",
+              "RelativeToolTip": "FCarica.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAuwC0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:03:09.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FCarica.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FCarica.cs",
+              "RelativeDocumentMoniker": "FCarica.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FCarica.cs [Progettazione]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FCarica.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:01:46.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FGioca.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FGioca.cs",
+              "RelativeDocumentMoniker": "FGioca.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FGioca.cs",
+              "RelativeToolTip": "FGioca.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAiwHYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:02:44.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FGioca.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FGioca.cs",
+              "RelativeDocumentMoniker": "FGioca.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FGioca.cs [Progettazione]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FGioca.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:01:55.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FSalva.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FSalva.cs",
+              "RelativeDocumentMoniker": "FSalva.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FSalva.cs",
+              "RelativeToolTip": "FSalva.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:47:05.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FSalva.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FSalva.cs",
+              "RelativeDocumentMoniker": "FSalva.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FSalva.cs [Progettazione]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FSalva.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:47:03.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FPartita.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FPartita.cs",
+              "RelativeDocumentMoniker": "FPartita.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FPartita.cs",
+              "RelativeToolTip": "FPartita.cs",
+              "ViewState": "AgIAAHoCAAAAAAAAAAAAAFcAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:29:09.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FPartita.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FPartita.cs",
+              "RelativeDocumentMoniker": "FPartita.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\CampoMinato_byErosandDerek\\ewg2wg\\CampoMinato_Finale\\CampoMinato\\CampoMinato2\\FPartita.cs [Progettazione]",
+              "RelativeToolTip": "FPartita.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:28:56.551Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 505,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

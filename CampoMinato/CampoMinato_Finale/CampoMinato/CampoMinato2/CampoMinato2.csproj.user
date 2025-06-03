@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="FCarica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FGioca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FImpostazioni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FInformazioni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FPartita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FSalva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
